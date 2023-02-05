@@ -3,7 +3,7 @@
 #include <assert.h>
 #include <math.h>
 #include <unistd.h>
-
+#include <time.h>
 int inverted = 1;
 int noi = 1;
 static const int nind = 10;
